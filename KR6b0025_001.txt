@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:34:06.605998
+#+DATE: 2015-08-30 19:34:08.125038
 #+TITLE: 福力太子因緣經
 #+PROPERTY: CBETA_ID T03n0173
 #+PROPERTY: ID KR6b0025
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 3, No. 173
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6b0025_T_000-0428a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6b0025_T_001-0428a> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.173¶
-
- 《佛說福力太子因緣經》卷第一¶
+No. 173¶
+《佛說福力太子因緣經》卷第一¶
 ¶
 西天譯經三藏朝奉大夫試光祿卿傳¶
 法大師賜紫沙門臣施護等奉　詔譯¶
@@ -254,7 +253,7 @@ No.173¶
 子，深信賢善，內心清淨，一切所行，自利利¶
 他，具悲愍者。於法自在，哀拯有情，作諸布¶
 施，無所積集，一切能捨，大捨遍捨，無有少¶
-分而不捨者。謂若沙門、婆羅門，貧窮孤露、¶
+分而不拾者。謂若沙門、婆羅門，貧窮孤露、¶
 諸乞丐者，或有來求自身血肉，是時太子¶
 於乞丐人，即起慈心，觀如虛空，乃作是念：¶
 『快哉！我今令其乞者得滿所願，隨即施與，況¶

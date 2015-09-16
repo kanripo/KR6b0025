@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:34:06.633174
+#+DATE: 2015-08-30 19:34:08.146979
 #+TITLE: 福力太子因緣經
 #+PROPERTY: CBETA_ID T03n0173
 #+PROPERTY: ID KR6b0025
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 3, No. 173
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6b0025_T_000-0428a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6b0025_T_002-0430b> 
 #+PROPERTY: JUAN 2
 ¶
-
- 《佛說福力太子因緣經》卷第二¶
+《佛說福力太子因緣經》卷第二¶
 ¶
 西天譯經三藏朝奉大夫試光祿卿¶
 傳法大師賜紫沙門臣施護等奉　詔譯¶
