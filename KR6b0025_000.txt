@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 福力太子因緣經
+#+DATE: 2015-08-30 19:34:06.926208
+#+PROPERTY: JUAN 0
