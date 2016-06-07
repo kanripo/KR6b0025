@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:34:06.633174
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:53
 #+TITLE: 福力太子因緣經
 #+PROPERTY: CBETA_ID T03n0173
 #+PROPERTY: ID KR6b0025
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 3, No. 173
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6b0025_T_000-0428a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6b0025_T_002-0430b> 
 #+PROPERTY: JUAN 2
 ¶
-
- 《佛說福力太子因緣經》卷第二¶
+《佛說福力太子因緣經》卷第二¶
 ¶
 西天譯經三藏朝奉大夫試光祿卿¶
 傳法大師賜紫沙門臣施護等奉　詔譯¶
@@ -230,9 +229,9 @@
 「　「『若我所言是真實，
 　貪愛自身為纏縛；¶
 　真實不退轉今時，
-　願我此身即如故。』
+　願我此身即如故。』」
 #+END_VERSE
-」¶
+¶
 
 「說是伽陀已，太子身胑即獲如故。由是空中¶
 遍雨天華，奏天微妙可愛音樂，和風徐起，現¶
